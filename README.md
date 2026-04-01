@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **bineetshaw4242@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Home/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/099D1DAD4C5D224D185B54A20E9E90BFDEAF6526/transfers/2026-14/Resume.pdf](file:///C:/Users/Home/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/099D1DAD4C5D224D185B54A20E9E90BFDEAF6526/transfers/2026-14/Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
