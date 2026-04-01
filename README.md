@@ -1,26 +1,32 @@
-<h1 align="center">Hi 👋, I'm Bineet Shaw</h1>
-<h3 align="center">A Software Engineer from India</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bineet Shaw
+====================================================================================================================================
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yesbineet" alt="yesbineet" /></a> </p>
+Software Developer and Designer
+-------------------------------
 
-- 🌱 I’m currently learning **DSA**
+I am a Computer Science student with a strong interest in software development, UI design, and emerging technologies like AI and machine learning. I am currently building my skills in Java programming, problem-solving, and core development concepts while preparing for my board exams.
 
-- 👨‍💻 All of my projects are available at [https://visual-portfolio--yesbineet.replit.app/](https://visual-portfolio--yesbineet.replit.app/)
+Alongside academics, I have worked on several projects including website UI designs, portfolio layouts, landing pages, and logo creation. I also create social media creatives such as sneaker posters, which have helped me develop a good sense of design, branding, and user experience.
 
-- 📫 How to reach me **bineetshaw4242@gmail.com**
+I am continuously looking to improve my skills through projects and real-world experience, with the goal of becoming a skilled software engineer and exploring freelancing opportunities in the future.
 
+* 🌍  I'm based in Kolkata
+* 🖥️  See my portfolio at [MyPortfolio](http://visual-portfolio--yesbineet.replit.app/)
+* ✉️  You can contact me at [bineetshaw4242@gmail.com](mailto:bineetshaw4242@gmail.com)
+* 🧠  I'm currently learning Data Structures and Algorithms
+* 👥  I'm looking to collaborate on Graphic Designing
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bineet-shaw-ab425127b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bineet-shaw-ab425127b" height="30" width="40" /></a>
-<a href="https://instagram.com/bineet.shaw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bineet.shaw_" height="30" width="40" /></a>
-<a href="https://www.behance.net/bineetshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="bineetshaw" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zyypr7azcg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zyypr7azcg" height="30" width="40" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+### Socials
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yesbineet&show_icons=true&locale=en&layout=compact" alt="yesbineet" /></p>
+<p align="left"> <a href="https://www.github.com/yesbineet" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/yesbineet" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.linkedin.com/in/bineet-shaw-ab425127b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.behance.com/bineetshaw" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" alt="Behance" title="Behance" /> </picture> </a></p>
+<a href="https://www.github.com/yesbineet" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/yesbineet?logo=github&style=for-the-badge&color=0891b2&labelColor=7c2d12" /></a>
+### Badges
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yesbineet&show_icons=true&locale=en" alt="yesbineet" /></p>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/yesbineet"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yesbineet&stroke=ffffff&background=7c2d12&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
