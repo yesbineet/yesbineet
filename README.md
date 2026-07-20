@@ -13,8 +13,8 @@
   
   <br />
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bineet-shaw)
-  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bineetshaw4242@gmail.com)
+  [![LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)](https://linkedin.com/in/bineet-shaw)
+  [![Email](https://mail.google.com/mail/mu/mp/912/#mn)](mailto:bineetshaw4242@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yesbineet)
   
   <br />
