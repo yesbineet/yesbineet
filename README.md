@@ -13,9 +13,9 @@
   
   <br />
   
-  [![LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)](https://linkedin.com/in/bineet-shaw)
+  [![LinkedIn](https://www.linkedin.com/in/bineet-shaw-ab425127b?utm_source=share_via&utm_content=profile&utm_medium=member_android)](https://linkedin.com/in/bineet-shaw)
   [![Email](https://mail.google.com/mail/mu/mp/912/#mn)](mailto:bineetshaw4242@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yesbineet)
+  [![GitHub](https://github.com/yesbineet)](https://github.com/yesbineet)
   
   <br />
   
@@ -160,15 +160,7 @@ This utility applies core declarative UI concepts to scale structural layouts cl
 
 ---
 
-## 8. Certifications Section
-
-#### **Android Development Pillars**
-![](https://img.shields.io/badge/Jetpack_Compose_Architecture_Mastery-4285F4?style=flat-square&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Advanced_Kotlin_Data_Structures-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
----
-
-## 9. Coding Profiles Section
+## 8. Coding Profiles Section
 
 <div align="center">
 
@@ -178,7 +170,7 @@ This utility applies core declarative UI concepts to scale structural layouts cl
 
 ---
 
-## 10. GitHub Analytics Section
+## 9. GitHub Analytics Section
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yesbineet&show_icons=true&theme=dark&title_color=9061F9&icon_color=7C3AED&text_color=9CA3AF&bg_color=0B0F19&hide_border=true" alt="GitHub Stats" height="180px" />
@@ -191,15 +183,7 @@ This utility applies core declarative UI concepts to scale structural layouts cl
 
 ---
 
-## 11. GitHub Trophies Section
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yesbineet&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## 12. Contribution Activity Section
+## 10. Contribution Activity Section
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yesbineet&theme=github-dark-custom&bg_color=0B0F19&color=9061F9&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
@@ -207,15 +191,7 @@ This utility applies core declarative UI concepts to scale structural layouts cl
 
 ---
 
-## 13. Contribution Snake Section
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yesbineet/yesbineet/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
-
-## 14. Current Focus Section
+## 11. Current Focus Section
 
 ```yaml
 focus:
