@@ -1,10 +1,10 @@
 <div align="center">
   <!-- 1. Animated Header Section -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=BINEET%20SHAW&fontSize=50&fontColor=ffffff&animation=twinkling&theme=dark" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=BINEET%20SHAW&fontSize=45&fontColor=ffffff&animation=twinkling&theme=dark" width="100%" alt="Header Banner" />
   
   <br />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9061F9&center=true&vCenter=true&width=500&lines=Software+Developer;Android+Systems+Engineer;Jetpack+Compose+Specialist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9061F9&center=true&vCenter=true&width=500&lines=Software+Developer;Android+Engineer;Jetpack+Compose+Specialist" alt="Typing Animation" />
   
   <br />
   
@@ -28,36 +28,31 @@
 
 ## 2. About Section
 
-I am a product-focused Software Developer specializing in building modern, high-performance mobile architectures. With deep expertise in Native Android development, asynchronous engineering, and clean application design patterns, I construct application ecosystems that balance clean code mechanics with elite user experiences. 
+I am a product-focused Software Developer specializing in native Android architectures. I build performant mobile applications using structural MVVM design, reactive state engineering, and high-contrast visual interfaces.
 
-*   **Software Engineering:** Strong focus on building responsive, event-driven Android architectures using structural MVVM principles and data structure efficiency.
-*   **Android & Full Stack:** Advanced capabilities in declarative UI modeling, local-first reactive caching engines, and real-time remote infrastructure synchronization.
-*   **Product Mindset:** Dedicated to creating clean, high-contrast, visual utility layouts that optimize mobile efficiency and structural component scalability.
+*   **Engineering:** Designing decoupled, event-driven Android systems with high runtime efficiency.
+*   **Android Development:** Declarative UI modeling, local-first offline caching, and real-time remote syncing.
+*   **Product Architecture:** Crafting minimal, utility-driven visual layouts built for optimal user efficiency.
 
-> **Open To:** Remote Software Engineering Internships, core application lifecycle architecture planning, and open-source systems collaboration.
+> **Open To:** Remote Software Engineering Internships and open-source systems collaboration.
 
 ---
 
 ## 3. Tech Stack Section
 
 <div align="left">
-  
-### Languages
-![](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Frontend
-![](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Material_Design_3-7C3AED?style=for-the-badge&logo=materialdesign&logoColor=white)
+**Languages & Frontend:** 
+![](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) 
+![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
+![](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=android&logoColor=white) 
+![](https://img.shields.io/badge/Material_Design_3-7C3AED?style=flat-square&logo=materialdesign&logoColor=white)
 
-### Backend & Databases
-![](https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### Cloud, DevOps & Tooling
-![](https://img.shields.io/badge/Ktor_Client-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+**Backend, Data & Tooling:** 
+![](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) 
+![](https://img.shields.io/badge/Ktor_Client-7F52FF?style=flat-square&logo=kotlin&logoColor=white) 
+![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
 </div>
 
@@ -67,8 +62,8 @@ I am a product-focused Software Developer specializing in building modern, high-
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Mobile Data Optimization** | Advanced | Local caching algorithms, structural model conversion, reactive state flow optimizations |
-| **Algorithmic Complexity** | Intermediate | Daily Data Structures and Algorithms resolution, asymptotic time/space pattern optimizations |
+| **Mobile Data Optimization** | Advanced | Local caching structures, local-first reactive flow tuning |
+| **Algorithmic Complexity** | Intermediate | Daily Data Structures and Algorithms optimization workflows |
 
 ---
 
@@ -78,19 +73,14 @@ I am a product-focused Software Developer specializing in building modern, high-
 <summary><b>📦 Frshly: Local-First Kitchen Inventory Engine</b></summary>
 <br>
 
-A local-first kitchen inventory tracker built with Jetpack Compose using modern MVVM architecture to drastically minimize food waste through striking Neo-Brutalist interface tracking.
+A local-first kitchen inventory tracker built with Jetpack Compose using MVVM architecture to minimize food waste via a striking Neo-Brutalist layout.
 
 | Metric | Specifications / Details |
 | :--- | :--- |
-| **Stack** | Kotlin, Jetpack Compose, Firebase Firestore, Coroutines, StateFlow |
-| **Scale** | Fully offline persistent data engine with auto-sync remote clusters |
-| **Performance** | Dynamic, expiration-based real-time color-coding state distribution |
-| **Security** | Field-isolated data structures, structured cloud authorization guards |
-| **Impact** | Achieved absolute zero-latency rendering using local-first caching engines |
+| **Stack** | Kotlin, Jetpack Compose, Firebase Firestore, Coroutines (`StateFlow`) |
+| **Performance** | Zero-latency local caching engine with dynamic expiration color-coding |
+| **Impact** | Seamless offline persistence that syncs automatically when network restores |
 | **Repository** | [View Source Code](https://github.com/yesbineet/frshly) |
-
-#### Professional Project Explanation
-Frshly leverages a native local-first caching model using Kotlin Coroutines and reactive flows (`StateFlow`, `callbackFlow`) to isolate application operations from fluctuating network availability. Built using standard Clean Architecture design guidelines, it structures clean data separation from structural layout boundaries.
 
 </details>
 
@@ -98,19 +88,14 @@ Frshly leverages a native local-first caching model using Kotlin Coroutines and 
 <summary><b>📊 QuickBite: Sleek Billing Dashboard Ecosystem</b></summary>
 <br>
 
-A rapid neo-brutalist business execution hub engineered to log transactions instantly to cloud spreadsheets while monitoring daily analytics benchmarks.
+A rapid neo-brutalist business dashboard engineered to log transactions instantly to cloud spreadsheets while monitoring daily metrics.
 
 | Metric | Specifications / Details |
 | :--- | :--- |
 | **Stack** | Kotlin, Jetpack Compose, Ktor Client, Google Apps Script |
-| **Scale** | Multi-category item segmentation handling instant remote network calls |
-| **Performance** | Live visual ticker tracking earnings instantly with zero pipeline rendering delay |
-| **Security** | Secure endpoint execution protocols communicating through custom API middleware |
-| **Impact** | Eliminated traditional complex database configurations for local retail operations |
+| **Performance** | Live earnings ticker tracking transactions with instant remote network execution |
+| **Impact** | Eliminated traditional complex backend setups for small retail architectures |
 | **Repository** | [View Source Code](https://github.com/yesbineet/QuickBite) |
-
-#### Professional Project Explanation
-QuickBite maps mobile point-of-sale data streams directly into active cloud infrastructure sheet models via Ktor client engines. The UI processes custom state arrays using structured composables, adjusting layout variants dynamically between optimized dark and light themes.
 
 </details>
 
@@ -118,19 +103,14 @@ QuickBite maps mobile point-of-sale data streams directly into active cloud infr
 <summary><b>🧮 Calculator: Monochromatic Aesthetic Utility Engine</b></summary>
 <br>
 
-A minimal, visually refined mathematical execution environment crafted for rapid arithmetic actions with strict component rendering optimizations.
+A minimal, visually refined mathematical execution environment crafted for rapid arithmetic actions with strict component rendering loops.
 
 | Metric | Specifications / Details |
 | :--- | :--- |
-| **Stack** | Kotlin, Jetpack Compose, Material Design 3 Architecture |
-| **Scale** | Single-activity deployment with custom dynamic state tracking layouts |
-| **Performance** | Immediate expression token updates with optimized recalculation cycles |
-| **Security** | Locally isolated memory runtime processing with zero outbound tracking assets |
-| **Impact** | Built an elite, modern reference example for dark/light state handling variations |
+| **Stack** | Kotlin, Jetpack Compose, Material Design 3 |
+| **Performance** | Immediate expression token evaluations with optimized recomposition cycles |
+| **Impact** | Built a highly optimized reference pattern for dark/light state variations |
 | **Repository** | [View Source Code](https://github.com/yesbineet/Calculator) |
-
-#### Professional Project Explanation
-This utility applies core declarative UI concepts to scale structural layouts cleanly according to system theme switches. It avoids unnecessary canvas recompositions, resulting in instantaneous visual calculation state adjustments.
 
 </details>
 
@@ -140,9 +120,8 @@ This utility applies core declarative UI concepts to scale structural layouts cl
 
 ### **Graphics Designer** | *KixNFit*
 **Date Range:** July 2025 — December 2025
-*   Designed highly polished branding posters and digital commercial marketing materials for social media channels.
-*   Crafted unique sneaker and luxury shoe promotional assets optimized for maximum engagement indexes.
-*   Collaborated directly with marketing directors to ensure rigorous aesthetic continuity across dynamic branding rollouts.
+*   Designed polished branding posters and promotional assets for premium footwear products.
+*   Maintained visual design continuity across social media distribution pipelines.
 `Figma` `Visual Branding` `Digital Design` `Asset Optimization`
 
 ---
@@ -153,8 +132,8 @@ This utility applies core declarative UI concepts to scale structural layouts cl
 
 | Recognition | Details |
 | :--- | :--- |
-| **Open Source Architecture Author** | Developed independent Android templates with robust modular architecture. |
-| **Consistent Algorithm Continuous Streak** | Sustaining continuous algorithmic problems resolution performance logs. |
+| **Architecture Author** | Developed modular, scalable open-source native Android templates. |
+| **Algorithm Consistency** | Maintaining structured problem-solving metrics across coding challenges. |
 
 </div>
 
@@ -173,29 +152,17 @@ This utility applies core declarative UI concepts to scale structural layouts cl
 ## 9. GitHub Analytics Section
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yesbineet&show_icons=true&theme=dark&title_color=9061F9&icon_color=7C3AED&text_color=9CA3AF&bg_color=0B0F19&hide_border=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yesbineet&theme=dark&background=0B0F19&fire=9061F9&ring=7C3AED&counter=9CA3AF&stroke=00000000&hide_border=true" alt="GitHub Streak Stats" height="180px" />
-  
-  <br />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesbineet&layout=compact&theme=dark&title_color=9061F9&text_color=9CA3AF&bg_color=0B0F19&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yesbineet&show_icons=true&theme=dark&title_color=9061F9&icon_color=7C3AED&text_color=9CA3AF&bg_color=0B0F19&hide_border=true" alt="GitHub Stats" height="150px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yesbineet&theme=dark&background=0B0F19&fire=9061F9&ring=7C3AED&counter=9CA3AF&stroke=00000000&hide_border=true" alt="GitHub Streak Stats" height="150px" />
 </div>
 
 ---
 
-## 10. Contribution Activity Section
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yesbineet&theme=github-dark-custom&bg_color=0B0F19&color=9061F9&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
-</div>
-
----
-
-## 11. Current Focus Section
+## 10. Current Focus Section
 
 ```yaml
 focus:
-  learning: "Data Structures & Algorithms, Advanced Frontend Optimization, Enterprise Backend Architecture"
-  building: "Scalable utility applications structured explicitly to simplify real-world logistical workflow complications"
-  exploring: "Advanced architectural frameworks, complex MVVM implementations, and structured data handling mechanisms"
-  open_to: "Remote software developer internships and distributed open-source mobile engineering initiatives"
+  learning: "Data Structures & Algorithms, Backend Optimization"
+  building: "Utility applications engineered to simplify workflows"
+  exploring: "Advanced architectural frameworks and clean MVVM structures"
+  open_to: "Remote software developer internships"
