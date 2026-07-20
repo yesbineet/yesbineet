@@ -18,12 +18,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yesbineet)
   
   <br />
-  
-  ![](https://komarev.com/ghpvc/?username=yesbineet&color=7c3aed&style=flat-square)
-  [![Followers](https://img.shields.io/github/followers/yesbineet?label=Followers&style=flat-square&color=4c1d95&logo=github)](https://github.com/yesbineet)
-  [![Stars](https://img.shields.io/github/stars/yesbineet?label=Stars&style=flat-square&color=6d28d9&logo=github)](https://github.com/yesbineet)
-</div>
-  
+
   ![](https://komarev.com/ghpvc/?username=yesbineet&color=7c3aed&style=flat-square)
   [![Followers](https://img.shields.io/github/followers/yesbineet?label=Followers&style=flat-square&color=4c1d95&logo=github)](https://github.com/yesbineet)
   [![Stars](https://img.shields.io/github/stars/yesbineet?label=Stars&style=flat-square&color=6d28d9&logo=github)](https://github.com/yesbineet)
