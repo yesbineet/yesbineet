@@ -13,11 +13,16 @@
   
   <br />
   
-  [![LinkedIn](https://www.linkedin.com/in/bineet-shaw-ab425127b?utm_source=share_via&utm_content=profile&utm_medium=member_android)](https://linkedin.com/in/bineet-shaw)
-  [![Email](https://mail.google.com/mail/mu/mp/912/#mn)](mailto:bineetshaw4242@gmail.com)
-  [![GitHub](https://github.com/yesbineet)](https://github.com/yesbineet)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bineet-shaw)
+  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bineetshaw4242@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yesbineet)
   
   <br />
+  
+  ![](https://komarev.com/ghpvc/?username=yesbineet&color=7c3aed&style=flat-square)
+  [![Followers](https://img.shields.io/github/followers/yesbineet?label=Followers&style=flat-square&color=4c1d95&logo=github)](https://github.com/yesbineet)
+  [![Stars](https://img.shields.io/github/stars/yesbineet?label=Stars&style=flat-square&color=6d28d9&logo=github)](https://github.com/yesbineet)
+</div>
   
   ![](https://komarev.com/ghpvc/?username=yesbineet&color=7c3aed&style=flat-square)
   [![Followers](https://img.shields.io/github/followers/yesbineet?label=Followers&style=flat-square&color=4c1d95&logo=github)](https://github.com/yesbineet)
